@@ -1,11 +1,17 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Jesse Feng # your name (or website title) here
+logo: "/images/upload picture.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Name:Jesse Feng 
   <br><br>
-  Second description 
+  Age: 21 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Studies Information and Communication Technology at KTH, Royal Institute of Technolog, Stockholm.
+  <br><br>
+  <a href="https://www.linkedin.com/in/jesse-feng-2895b013a/">View My LinkedIn Profile</a> 
+  <br><br>
+  Familiar with programming languages such as Java, C , Assembly and Elixir. 
+  <br><br>
+  E-mail: Jessef@kth.se
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
